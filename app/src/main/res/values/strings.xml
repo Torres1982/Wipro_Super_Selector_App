@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Super Selector App</string>
+    <string name="send_intent_one_button">SEND SELECTED PLAYERS</string>
+    <string name="image_view_content_description">Player Image</string>
+    <string name="text_view_label_name">Full Name:</string>
+    <string name="text_view_label_age">Age:</string>
+    <string name="text_view_label_country">Country:</string>
+    <string name="text_view_label_position">Position:</string>
+</resources>
